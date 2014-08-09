@@ -1,0 +1,18 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\WifiAPI.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\WifiAPI.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\WifiAPI.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\log4net.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\log4net.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\obj\x86\Debug\WifiAPI.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\obj\x86\Debug\WifiAPI.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\WifiAPI\WifiAPI\bin\Debug\log4net.config
+C:\Project\WifiAPI\WifiAPI\bin\Debug\log4net.config
+C:\Project\WifiAPI\WifiAPI\bin\Debug\WifiAPI.exe.config
+C:\Project\WifiAPI\WifiAPI\bin\Debug\WifiAPI.exe
+C:\Project\WifiAPI\WifiAPI\bin\Debug\WifiAPI.pdb
+C:\Project\WifiAPI\WifiAPI\bin\Debug\log4net.dll
+C:\Project\WifiAPI\WifiAPI\bin\Debug\log4net.xml
+C:\Project\WifiAPI\WifiAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\WifiAPI\WifiAPI\obj\x86\Debug\WifiAPI.exe
+C:\Project\WifiAPI\WifiAPI\obj\x86\Debug\WifiAPI.pdb

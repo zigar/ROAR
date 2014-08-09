@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiFi TestPro</string>
+    <string name="edit_message">Send Command Here</string>
+    <string name="button_send">WiFi Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="myScrollView3">My second message </string>
+    <string name="myTextView">My View </string>
+    <string name="myTextView3">Server Log</string>
+    <string name="toggle_button">ToggleButton </string>
+    <string name="title_activity_test_server">TestServer</string>
+
+</resources>

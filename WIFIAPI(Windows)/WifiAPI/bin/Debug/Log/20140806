@@ -1,0 +1,859 @@
+2014-08-06 11:10:31,767 [27] : Connected: 10.74.120.61:53640
+2014-08-06 11:10:31,925 [27] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 11:13:11,471 [28] : Connected: 10.140.82.74:64505
+2014-08-06 11:13:13,137 [28] : help
+2014-08-06 11:13:14,162 [28] : listnc
+2014-08-06 11:13:35,777 [28] : Disconnected: 10.140.82.74:64505
+2014-08-06 12:02:09,324 [29] : Connected: 10.140.82.74:65253
+2014-08-06 12:02:35,887 [29] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 12:02:35,932 [29] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 12:03:59,345 [30] : Connected: 10.140.82.74:65274
+2014-08-06 12:04:01,581 [30] : listnc
+2014-08-06 12:04:15,661 [30] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 12:29:50,937 [1] : Server mounted, listening to port 2014
+2014-08-06 12:43:59,908 [5] : Connected: 10.74.120.61:54988
+2014-08-06 12:44:00,008 [5] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 12:44:00,117 [5] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 12:44:00,164 [5] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 12:44:00,165 [5] : Connecting ...
+2014-08-06 12:44:00,169 [5] : WLAN Event Code Success
+2014-08-06 12:44:00,170 [5] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 12:44:03,325 [5] : WLAN Event Code Success
+2014-08-06 12:44:03,328 [5] : WLAN Event Code Success
+2014-08-06 12:44:03,333 [5] : WLAN Event Code Success
+2014-08-06 12:44:03,418 [5] : WLAN Event Code Success
+2014-08-06 12:44:03,428 [5] : WLAN Event Code Success
+2014-08-06 12:44:03,428 [5] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 12:44:03,431 [5] : Connected
+2014-08-06 12:44:03,431 [5] : Successful to associate to the router
+2014-08-06 12:44:03,432 [5] : Disconnected: 10.74.120.61:54988
+2014-08-06 13:07:03,418 [7] : Connected: 10.74.120.61:55292
+2014-08-06 13:07:03,509 [7] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 13:07:03,556 [7] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 13:07:04,161 [7] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 13:07:04,161 [7] : Connecting ...
+2014-08-06 13:07:04,163 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,165 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,166 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,167 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,167 [7] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 13:07:04,168 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,169 [7] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 13:07:04,321 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,326 [7] : WLAN Event Code Success
+2014-08-06 13:07:04,332 [7] : WLAN Event Code Success
+2014-08-06 13:07:06,409 [7] : WLAN Event Code Success
+2014-08-06 13:07:06,410 [7] : WLAN Event Code Success
+2014-08-06 13:07:06,410 [7] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 13:07:06,411 [7] : Connected
+2014-08-06 13:07:06,411 [7] : Successful to associate to the router
+2014-08-06 13:07:06,413 [7] : Disconnected: 10.74.120.61:55292
+2014-08-06 14:08:17,278 [6] : Connected: 10.74.120.61:56613
+2014-08-06 14:08:17,377 [6] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:08:17,431 [6] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:08:18,061 [6] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:08:18,061 [6] : Connecting ...
+2014-08-06 14:08:18,062 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,063 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,066 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,066 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,067 [6] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:08:18,067 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,068 [6] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:08:18,229 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,235 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,242 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,260 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,263 [6] : WLAN Event Code Success
+2014-08-06 14:08:18,264 [6] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:08:18,265 [6] : Connected
+2014-08-06 14:08:18,265 [6] : Successful to associate to the router
+2014-08-06 14:08:18,267 [6] : Disconnected: 10.74.120.61:56613
+2014-08-06 14:12:00,568 [8] : Connected: 10.74.120.61:56732
+2014-08-06 14:12:00,665 [8] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:12:00,735 [8] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:12:01,354 [8] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:12:01,354 [8] : Connecting ...
+2014-08-06 14:12:01,356 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,356 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,360 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,361 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,362 [8] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:12:01,362 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,363 [8] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:12:01,533 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,552 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,554 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,646 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,653 [8] : WLAN Event Code Success
+2014-08-06 14:12:01,653 [8] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:12:01,654 [8] : Connected
+2014-08-06 14:12:01,655 [8] : Successful to associate to the router
+2014-08-06 14:12:01,657 [8] : Disconnected: 10.74.120.61:56732
+2014-08-06 14:15:40,825 [9] : Connected: 10.74.120.61:56820
+2014-08-06 14:15:40,919 [9] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:15:40,968 [9] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:15:41,615 [9] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:15:41,632 [9] : Connecting ...
+2014-08-06 14:15:41,633 [9] : WLAN Event Code Success
+2014-08-06 14:15:41,634 [9] : WLAN Event Code Success
+2014-08-06 14:15:41,637 [9] : WLAN Event Code Success
+2014-08-06 14:15:41,639 [9] : WLAN Event Code Success
+2014-08-06 14:15:41,639 [9] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:15:41,641 [9] : WLAN Event Code Success
+2014-08-06 14:15:41,642 [9] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:15:44,165 [9] : WLAN Event Code Success
+2014-08-06 14:15:44,169 [9] : WLAN Event Code Success
+2014-08-06 14:15:44,172 [9] : WLAN Event Code Success
+2014-08-06 14:15:45,229 [9] : WLAN Event Code Success
+2014-08-06 14:15:45,234 [9] : WLAN Event Code Success
+2014-08-06 14:15:45,235 [9] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:15:45,235 [9] : Connected
+2014-08-06 14:15:45,236 [9] : Successful to associate to the router
+2014-08-06 14:15:45,237 [9] : Disconnected: 10.74.120.61:56820
+2014-08-06 14:19:39,552 [10] : Connected: 10.74.120.61:56960
+2014-08-06 14:19:39,649 [10] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:19:39,701 [10] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:19:40,322 [10] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:19:40,322 [10] : Connecting ...
+2014-08-06 14:19:40,327 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,343 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,350 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,356 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,356 [10] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:19:40,358 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,358 [10] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:19:40,606 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,607 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,608 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,732 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,740 [10] : WLAN Event Code Success
+2014-08-06 14:19:40,741 [10] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:19:40,742 [10] : Connected
+2014-08-06 14:19:40,742 [10] : Successful to associate to the router
+2014-08-06 14:19:40,744 [10] : Disconnected: 10.74.120.61:56960
+2014-08-06 14:25:38,958 [11] : Connected: 10.74.120.61:57061
+2014-08-06 14:25:39,054 [11] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:25:39,103 [11] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:25:39,709 [11] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:25:39,710 [11] : Connecting ...
+2014-08-06 14:25:39,713 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,713 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,714 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,714 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,715 [11] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:25:39,716 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,717 [11] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:25:39,872 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,886 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,886 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,993 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,994 [11] : WLAN Event Code Success
+2014-08-06 14:25:39,994 [11] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:25:39,995 [11] : Connected
+2014-08-06 14:25:39,995 [11] : Successful to associate to the router
+2014-08-06 14:25:39,997 [11] : Disconnected: 10.74.120.61:57061
+2014-08-06 14:33:56,182 [12] : Connected: 10.74.120.61:57324
+2014-08-06 14:33:56,290 [12] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:33:56,342 [12] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:33:56,948 [12] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:33:56,948 [12] : Connecting ...
+2014-08-06 14:33:56,952 [12] : WLAN Event Code Success
+2014-08-06 14:33:56,952 [12] : WLAN Event Code Success
+2014-08-06 14:33:56,953 [12] : WLAN Event Code Success
+2014-08-06 14:33:56,953 [12] : WLAN Event Code Success
+2014-08-06 14:33:56,954 [12] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:33:56,955 [12] : WLAN Event Code Success
+2014-08-06 14:33:56,955 [12] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:33:57,454 [12] : WLAN Event Code Success
+2014-08-06 14:33:57,481 [12] : WLAN Event Code Success
+2014-08-06 14:33:57,491 [12] : WLAN Event Code Success
+2014-08-06 14:33:57,492 [12] : WLAN Event Code Success
+2014-08-06 14:33:57,492 [12] : WLAN Event Code Success
+2014-08-06 14:33:57,493 [12] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:33:57,493 [12] : Connected
+2014-08-06 14:33:57,494 [12] : Successful to associate to the router
+2014-08-06 14:33:57,495 [12] : Disconnected: 10.74.120.61:57324
+2014-08-06 14:54:41,294 [13] : Connected: 10.74.120.61:57907
+2014-08-06 14:54:41,400 [13] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 14:54:41,454 [13] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 14:54:42,062 [13] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 14:54:42,062 [13] : Connecting ...
+2014-08-06 14:54:42,074 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,079 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,080 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,080 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,081 [13] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 14:54:42,081 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,082 [13] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 14:54:42,719 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,727 [13] : WLAN Event Code Success
+2014-08-06 14:54:42,731 [13] : WLAN Event Code Success
+2014-08-06 14:54:43,740 [13] : WLAN Event Code Success
+2014-08-06 14:54:43,746 [13] : WLAN Event Code Success
+2014-08-06 14:54:43,747 [13] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 14:54:43,752 [13] : Connected
+2014-08-06 14:54:43,752 [13] : Successful to associate to the router
+2014-08-06 14:54:43,754 [13] : Disconnected: 10.74.120.61:57907
+2014-08-06 15:00:29,591 [14] : Connected: 10.74.120.61:57980
+2014-08-06 15:00:29,692 [14] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:00:29,745 [14] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:00:30,354 [14] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:00:30,355 [14] : Connecting ...
+2014-08-06 15:00:30,363 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,369 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,369 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,370 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,371 [14] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:00:30,371 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,372 [14] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:00:30,556 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,559 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,560 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,605 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,621 [14] : WLAN Event Code Success
+2014-08-06 15:00:30,622 [14] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:00:30,622 [14] : Connected
+2014-08-06 15:00:30,622 [14] : Successful to associate to the router
+2014-08-06 15:00:30,624 [14] : Disconnected: 10.74.120.61:57980
+2014-08-06 15:12:00,584 [15] : Connected: 10.74.120.61:58359
+2014-08-06 15:12:00,683 [15] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:12:00,754 [15] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:12:01,391 [15] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:12:01,392 [15] : Connecting ...
+2014-08-06 15:12:01,396 [15] : WLAN Event Code Success
+2014-08-06 15:12:01,397 [15] : WLAN Event Code Success
+2014-08-06 15:12:01,397 [15] : WLAN Event Code Success
+2014-08-06 15:12:01,398 [15] : WLAN Event Code Success
+2014-08-06 15:12:01,399 [15] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:12:01,399 [15] : WLAN Event Code Success
+2014-08-06 15:12:01,400 [15] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:12:05,131 [15] : WLAN Event Code Success
+2014-08-06 15:12:05,135 [15] : WLAN Event Code Success
+2014-08-06 15:12:05,140 [15] : WLAN Event Code Success
+2014-08-06 15:12:05,302 [15] : WLAN Event Code Success
+2014-08-06 15:12:05,304 [15] : WLAN Event Code Success
+2014-08-06 15:12:05,305 [15] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:12:05,310 [15] : Connected
+2014-08-06 15:12:05,310 [15] : Successful to associate to the router
+2014-08-06 15:12:05,313 [15] : Disconnected: 10.74.120.61:58359
+2014-08-06 15:17:49,308 [16] : Connected: 10.74.120.61:58687
+2014-08-06 15:17:49,498 [16] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:17:49,713 [16] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:17:50,333 [16] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:17:50,333 [16] : Connecting ...
+2014-08-06 15:17:50,471 [16] : WLAN Event Code Success
+2014-08-06 15:17:50,474 [16] : WLAN Event Code Success
+2014-08-06 15:17:50,476 [16] : WLAN Event Code Success
+2014-08-06 15:17:50,477 [16] : WLAN Event Code Success
+2014-08-06 15:17:50,478 [16] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:17:50,479 [16] : WLAN Event Code Success
+2014-08-06 15:17:50,480 [16] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:17:53,705 [16] : WLAN Event Code Success
+2014-08-06 15:17:53,710 [16] : WLAN Event Code Success
+2014-08-06 15:17:53,714 [16] : WLAN Event Code Success
+2014-08-06 15:17:53,937 [16] : WLAN Event Code Success
+2014-08-06 15:17:53,943 [16] : WLAN Event Code Success
+2014-08-06 15:17:53,943 [16] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:17:53,944 [16] : Connected
+2014-08-06 15:17:53,944 [16] : Successful to associate to the router
+2014-08-06 15:17:53,947 [16] : Disconnected: 10.74.120.61:58687
+2014-08-06 15:23:39,577 [17] : Connected: 10.74.120.61:59015
+2014-08-06 15:23:39,680 [17] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:23:39,733 [17] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:23:40,345 [17] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:23:40,346 [17] : Connecting ...
+2014-08-06 15:23:40,350 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,367 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,381 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,390 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,391 [17] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:23:40,391 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,392 [17] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:23:40,559 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,566 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,572 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,607 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,616 [17] : WLAN Event Code Success
+2014-08-06 15:23:40,617 [17] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:23:40,617 [17] : Connected
+2014-08-06 15:23:40,617 [17] : Successful to associate to the router
+2014-08-06 15:23:40,619 [17] : Disconnected: 10.74.120.61:59015
+2014-08-06 15:29:30,380 [18] : Connected: 10.74.120.61:59236
+2014-08-06 15:29:30,472 [18] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:29:30,519 [18] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:29:31,124 [18] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:29:31,124 [18] : Connecting ...
+2014-08-06 15:29:31,128 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,131 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,139 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,141 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,142 [18] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:29:31,143 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,143 [18] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:29:31,354 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,357 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,362 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,448 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,458 [18] : WLAN Event Code Success
+2014-08-06 15:29:31,459 [18] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:29:31,459 [18] : Connected
+2014-08-06 15:29:31,460 [18] : Successful to associate to the router
+2014-08-06 15:29:31,462 [18] : Disconnected: 10.74.120.61:59236
+2014-08-06 15:35:13,527 [19] : Connected: 10.74.120.61:59535
+2014-08-06 15:35:13,623 [19] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:35:13,669 [19] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:35:14,273 [19] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:35:14,274 [19] : Connecting ...
+2014-08-06 15:35:14,278 [19] : WLAN Event Code Success
+2014-08-06 15:35:14,282 [19] : WLAN Event Code Success
+2014-08-06 15:35:14,291 [19] : WLAN Event Code Success
+2014-08-06 15:35:14,292 [19] : WLAN Event Code Success
+2014-08-06 15:35:14,293 [19] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:35:14,295 [19] : WLAN Event Code Success
+2014-08-06 15:35:14,296 [19] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:35:15,176 [19] : WLAN Event Code Success
+2014-08-06 15:35:15,179 [19] : WLAN Event Code Success
+2014-08-06 15:35:15,180 [19] : WLAN Event Code Success
+2014-08-06 15:35:15,180 [19] : WLAN Event Code Success
+2014-08-06 15:35:15,181 [19] : WLAN Event Code Success
+2014-08-06 15:35:15,181 [19] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:35:15,182 [19] : Connected
+2014-08-06 15:35:15,182 [19] : Successful to associate to the router
+2014-08-06 15:35:15,183 [19] : Disconnected: 10.74.120.61:59535
+2014-08-06 15:41:00,657 [20] : Connected: 10.74.120.61:59785
+2014-08-06 15:41:00,760 [20] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:41:00,812 [20] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:41:01,417 [20] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:41:01,417 [20] : Connecting ...
+2014-08-06 15:41:01,421 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,424 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,424 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,424 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,425 [20] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:41:01,425 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,426 [20] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:41:01,613 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,619 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,624 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,675 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,680 [20] : WLAN Event Code Success
+2014-08-06 15:41:01,681 [20] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:41:01,681 [20] : Connected
+2014-08-06 15:41:01,682 [20] : Successful to associate to the router
+2014-08-06 15:41:01,683 [20] : Disconnected: 10.74.120.61:59785
+2014-08-06 15:46:48,192 [21] : Connected: 10.74.120.61:60067
+2014-08-06 15:46:48,281 [21] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:46:48,329 [21] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:46:48,933 [21] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:46:48,934 [21] : Connecting ...
+2014-08-06 15:46:48,937 [21] : WLAN Event Code Success
+2014-08-06 15:46:48,940 [21] : WLAN Event Code Success
+2014-08-06 15:46:48,948 [21] : WLAN Event Code Success
+2014-08-06 15:46:48,950 [21] : WLAN Event Code Success
+2014-08-06 15:46:48,951 [21] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:46:48,952 [21] : WLAN Event Code Success
+2014-08-06 15:46:48,952 [21] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:46:49,108 [21] : WLAN Event Code Success
+2014-08-06 15:46:49,114 [21] : WLAN Event Code Success
+2014-08-06 15:46:49,131 [21] : WLAN Event Code Success
+2014-08-06 15:46:49,144 [21] : WLAN Event Code Success
+2014-08-06 15:46:49,169 [21] : WLAN Event Code Success
+2014-08-06 15:46:49,169 [21] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:46:49,170 [21] : Connected
+2014-08-06 15:46:49,170 [21] : Successful to associate to the router
+2014-08-06 15:46:49,171 [21] : Disconnected: 10.74.120.61:60067
+2014-08-06 15:52:39,282 [22] : Connected: 10.74.120.61:60242
+2014-08-06 15:52:39,389 [22] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:52:39,443 [22] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:52:40,055 [22] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:52:40,055 [22] : Connecting ...
+2014-08-06 15:52:40,057 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,076 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,089 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,099 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,099 [22] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:52:40,103 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,103 [22] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:52:40,230 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,231 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,231 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,273 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,283 [22] : WLAN Event Code Success
+2014-08-06 15:52:40,284 [22] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:52:40,285 [22] : Connected
+2014-08-06 15:52:40,285 [22] : Successful to associate to the router
+2014-08-06 15:52:40,288 [22] : Disconnected: 10.74.120.61:60242
+2014-08-06 15:58:30,400 [23] : Connected: 10.74.120.61:60385
+2014-08-06 15:58:30,502 [23] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 15:58:30,554 [23] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 15:58:31,161 [23] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 15:58:31,161 [23] : Connecting ...
+2014-08-06 15:58:31,168 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,176 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,184 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,191 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,192 [23] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 15:58:31,192 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,193 [23] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 15:58:31,328 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,333 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,339 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,372 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,386 [23] : WLAN Event Code Success
+2014-08-06 15:58:31,387 [23] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 15:58:31,387 [23] : Connected
+2014-08-06 15:58:31,388 [23] : Successful to associate to the router
+2014-08-06 15:58:31,390 [23] : Disconnected: 10.74.120.61:60385
+2014-08-06 16:04:16,787 [24] : Connected: 10.74.120.61:60495
+2014-08-06 16:04:16,876 [24] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:04:16,923 [24] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:04:17,530 [24] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:04:17,530 [24] : Connecting ...
+2014-08-06 16:04:17,534 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,536 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,545 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,547 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,547 [24] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 16:04:17,549 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,549 [24] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:04:17,700 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,708 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,716 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,733 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,756 [24] : WLAN Event Code Success
+2014-08-06 16:04:17,757 [24] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:04:17,757 [24] : Connected
+2014-08-06 16:04:17,758 [24] : Successful to associate to the router
+2014-08-06 16:04:17,759 [24] : Disconnected: 10.74.120.61:60495
+2014-08-06 16:09:57,459 [25] : Connected: 10.74.120.61:60676
+2014-08-06 16:09:57,562 [25] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:09:57,614 [25] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:09:58,223 [25] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:09:58,224 [25] : Connecting ...
+2014-08-06 16:09:58,228 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,231 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,232 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,232 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,233 [25] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 16:09:58,233 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,234 [25] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:09:58,430 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,433 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,439 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,502 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,505 [25] : WLAN Event Code Success
+2014-08-06 16:09:58,505 [25] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:09:58,511 [25] : Connected
+2014-08-06 16:09:58,511 [25] : Successful to associate to the router
+2014-08-06 16:09:58,514 [25] : Disconnected: 10.74.120.61:60676
+2014-08-06 16:18:32,186 [26] : Connected: 10.74.120.61:60938
+2014-08-06 16:18:32,295 [26] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:18:32,347 [26] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:18:32,970 [26] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:18:32,970 [26] : Connecting ...
+2014-08-06 16:18:32,979 [26] : WLAN Event Code Success
+2014-08-06 16:18:32,995 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,007 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,011 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,012 [26] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 16:18:33,019 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,020 [26] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:18:33,191 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,191 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,193 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,217 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,241 [26] : WLAN Event Code Success
+2014-08-06 16:18:33,242 [26] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:18:33,242 [26] : Connected
+2014-08-06 16:18:33,243 [26] : Successful to associate to the router
+2014-08-06 16:18:33,244 [26] : Disconnected: 10.74.120.61:60938
+2014-08-06 16:27:04,091 [28] : Connected: 10.74.120.61:33002
+2014-08-06 16:27:04,195 [28] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:27:04,247 [28] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:27:04,864 [28] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:27:04,864 [28] : Connecting ...
+2014-08-06 16:27:04,873 [28] : WLAN Event Code Success
+2014-08-06 16:27:04,876 [28] : WLAN Event Code Success
+2014-08-06 16:27:04,885 [28] : WLAN Event Code Success
+2014-08-06 16:27:04,888 [28] : WLAN Event Code Success
+2014-08-06 16:27:04,889 [28] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 16:27:04,891 [28] : WLAN Event Code Success
+2014-08-06 16:27:04,891 [28] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:27:05,052 [28] : WLAN Event Code Success
+2014-08-06 16:27:05,055 [28] : WLAN Event Code Success
+2014-08-06 16:27:05,067 [28] : WLAN Event Code Success
+2014-08-06 16:27:05,120 [28] : WLAN Event Code Success
+2014-08-06 16:27:05,128 [28] : WLAN Event Code Success
+2014-08-06 16:27:05,129 [28] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:27:05,130 [28] : Connected
+2014-08-06 16:27:05,130 [28] : Successful to associate to the router
+2014-08-06 16:27:05,132 [28] : Disconnected: 10.74.120.61:33002
+2014-08-06 16:32:29,548 [29] : Connected: 10.74.120.29:2075
+2014-08-06 16:32:34,304 [29] : help
+2014-08-06 16:32:40,624 [29] : listnc
+2014-08-06 16:32:47,474 [29] : listnt
+2014-08-06 16:32:52,580 [29] : listnt 0
+2014-08-06 16:33:01,493 [29] : help
+2014-08-06 16:35:52,393 [30] : Connected: 10.74.120.61:33259
+2014-08-06 16:35:52,489 [30] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:35:52,534 [30] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:35:52,571 [30] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:35:52,571 [30] : Connecting ...
+2014-08-06 16:35:52,574 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,574 [30] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:35:52,768 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,771 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,777 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,864 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,866 [30] : WLAN Event Code Success
+2014-08-06 16:35:52,866 [30] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:35:52,872 [30] : Connected
+2014-08-06 16:35:52,872 [30] : Successful to associate to the router
+2014-08-06 16:35:52,873 [30] : Disconnected: 10.74.120.61:33259
+2014-08-06 16:37:56,341 [29] : 
+2014-08-06 16:37:56,345 [29] : Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+2014-08-06 16:37:56,345 [29] : Disconnected: 10.74.120.29:2075
+2014-08-06 16:44:15,239 [31] : Connected: 10.74.120.61:33445
+2014-08-06 16:44:15,334 [31] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:44:15,380 [31] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:44:15,399 [31] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:44:15,399 [31] : Connecting ...
+2014-08-06 16:44:15,402 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,402 [31] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:44:15,625 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,626 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,629 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,672 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,679 [31] : WLAN Event Code Success
+2014-08-06 16:44:15,679 [31] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:44:15,680 [31] : Connected
+2014-08-06 16:44:15,680 [31] : Successful to associate to the router
+2014-08-06 16:44:15,681 [31] : Disconnected: 10.74.120.61:33445
+2014-08-06 16:53:03,985 [32] : Connected: 10.74.120.61:33655
+2014-08-06 16:53:04,090 [32] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 16:53:04,142 [32] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 16:53:04,747 [32] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 16:53:04,747 [32] : Connecting ...
+2014-08-06 16:53:04,751 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,751 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,751 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,751 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,751 [32] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 16:53:04,752 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,752 [32] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 16:53:04,922 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,925 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,929 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,985 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,985 [32] : WLAN Event Code Success
+2014-08-06 16:53:04,986 [32] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 16:53:04,986 [32] : Connected
+2014-08-06 16:53:04,986 [32] : Successful to associate to the router
+2014-08-06 16:53:04,987 [32] : Disconnected: 10.74.120.61:33655
+2014-08-06 17:01:32,288 [33] : Connected: 10.74.120.61:33873
+2014-08-06 17:01:32,515 [33] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 17:01:32,568 [33] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 17:01:33,177 [33] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 17:01:33,177 [33] : Connecting ...
+2014-08-06 17:01:33,182 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,183 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,186 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,186 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,186 [33] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 17:01:33,187 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,187 [33] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 17:01:33,839 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,908 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,917 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,947 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,949 [33] : WLAN Event Code Success
+2014-08-06 17:01:33,949 [33] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 17:01:33,954 [33] : Connected
+2014-08-06 17:01:33,954 [33] : Successful to associate to the router
+2014-08-06 17:01:33,957 [33] : Disconnected: 10.74.120.61:33873
+2014-08-06 17:10:01,805 [34] : Connected: 10.74.120.61:34058
+2014-08-06 17:10:01,910 [34] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 17:10:01,964 [34] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 17:10:02,570 [34] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 17:10:02,570 [34] : Connecting ...
+2014-08-06 17:10:02,574 [34] : WLAN Event Code Success
+2014-08-06 17:10:02,574 [34] : WLAN Event Code Success
+2014-08-06 17:10:02,574 [34] : WLAN Event Code Success
+2014-08-06 17:10:02,575 [34] : WLAN Event Code Success
+2014-08-06 17:10:02,575 [34] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 17:10:02,575 [34] : WLAN Event Code Success
+2014-08-06 17:10:02,575 [34] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 17:10:03,233 [34] : WLAN Event Code Success
+2014-08-06 17:10:03,236 [34] : WLAN Event Code Success
+2014-08-06 17:10:03,240 [34] : WLAN Event Code Success
+2014-08-06 17:10:03,468 [34] : WLAN Event Code Success
+2014-08-06 17:10:03,474 [34] : WLAN Event Code Success
+2014-08-06 17:10:03,474 [34] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 17:10:03,479 [34] : Connected
+2014-08-06 17:10:03,480 [34] : Successful to associate to the router
+2014-08-06 17:10:03,481 [34] : Disconnected: 10.74.120.61:34058
+2014-08-06 17:42:40,478 [35] : Connected: 10.74.120.61:34824
+2014-08-06 17:42:45,204 [35] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 17:42:45,282 [35] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 17:42:45,318 [35] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 17:42:45,318 [35] : Connecting ...
+2014-08-06 17:42:45,326 [35] : WLAN Event Code Success
+2014-08-06 17:42:45,326 [35] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 17:42:48,482 [35] : WLAN Event Code Success
+2014-08-06 17:42:48,508 [35] : WLAN Event Code Success
+2014-08-06 17:42:48,517 [35] : WLAN Event Code Success
+2014-08-06 17:42:48,587 [35] : WLAN Event Code Success
+2014-08-06 17:42:48,587 [35] : WLAN Event Code Success
+2014-08-06 17:42:48,587 [35] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 17:42:48,588 [35] : Connected
+2014-08-06 17:42:48,588 [35] : Successful to associate to the router
+2014-08-06 17:42:48,589 [35] : Disconnected: 10.74.120.61:34824
+2014-08-06 17:51:39,964 [36] : Connected: 10.74.120.61:35082
+2014-08-06 17:51:40,067 [36] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 17:51:40,120 [36] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 17:51:40,724 [36] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 17:51:40,724 [36] : Connecting ...
+2014-08-06 17:51:40,728 [36] : WLAN Event Code Success
+2014-08-06 17:51:40,728 [36] : WLAN Event Code Success
+2014-08-06 17:51:40,728 [36] : WLAN Event Code Success
+2014-08-06 17:51:40,728 [36] : WLAN Event Code Success
+2014-08-06 17:51:40,729 [36] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 17:51:40,729 [36] : WLAN Event Code Success
+2014-08-06 17:51:40,729 [36] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 17:51:41,406 [36] : WLAN Event Code Success
+2014-08-06 17:51:41,411 [36] : WLAN Event Code Success
+2014-08-06 17:51:41,416 [36] : WLAN Event Code Success
+2014-08-06 17:51:41,474 [36] : WLAN Event Code Success
+2014-08-06 17:51:41,474 [36] : WLAN Event Code Success
+2014-08-06 17:51:41,474 [36] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 17:51:41,474 [36] : Connected
+2014-08-06 17:51:41,474 [36] : Successful to associate to the router
+2014-08-06 17:51:41,475 [36] : Disconnected: 10.74.120.61:35082
+2014-08-06 18:00:16,920 [37] : Connected: 10.74.120.61:35290
+2014-08-06 18:00:17,023 [37] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:00:17,075 [37] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:00:17,681 [37] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:00:17,681 [37] : Connecting ...
+2014-08-06 18:00:17,684 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,684 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,685 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,685 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,685 [37] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:00:17,685 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,685 [37] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:00:17,845 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,846 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,849 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,885 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,893 [37] : WLAN Event Code Success
+2014-08-06 18:00:17,893 [37] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:00:17,893 [37] : Connected
+2014-08-06 18:00:17,893 [37] : Successful to associate to the router
+2014-08-06 18:00:17,894 [37] : Disconnected: 10.74.120.61:35290
+2014-08-06 18:10:16,659 [38] : Connected: 10.74.120.61:35471
+2014-08-06 18:10:16,761 [38] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:10:16,813 [38] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:10:17,422 [38] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:10:17,422 [38] : Connecting ...
+2014-08-06 18:10:17,426 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,426 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,426 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,426 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,426 [38] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:10:17,426 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,427 [38] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:10:17,593 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,596 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,602 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,638 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,638 [38] : WLAN Event Code Success
+2014-08-06 18:10:17,638 [38] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:10:17,638 [38] : Connected
+2014-08-06 18:10:17,638 [38] : Successful to associate to the router
+2014-08-06 18:10:17,639 [38] : Disconnected: 10.74.120.61:35471
+2014-08-06 18:18:41,274 [39] : Connected: 10.74.120.61:35729
+2014-08-06 18:18:41,379 [39] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:18:41,433 [39] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:18:42,038 [39] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:18:42,038 [39] : Connecting ...
+2014-08-06 18:18:42,041 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,041 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,041 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,042 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,042 [39] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:18:42,042 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,042 [39] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:18:42,213 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,213 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,214 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,233 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,233 [39] : WLAN Event Code Success
+2014-08-06 18:18:42,233 [39] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:18:42,234 [39] : Connected
+2014-08-06 18:18:42,234 [39] : Successful to associate to the router
+2014-08-06 18:18:42,234 [39] : Disconnected: 10.74.120.61:35729
+2014-08-06 18:27:40,043 [40] : Connected: 10.74.120.61:36008
+2014-08-06 18:27:40,145 [40] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:27:40,197 [40] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:27:40,805 [40] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:27:40,805 [40] : Connecting ...
+2014-08-06 18:27:40,812 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,818 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,818 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,818 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,818 [40] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:27:40,818 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,819 [40] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:27:40,984 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,995 [40] : WLAN Event Code Success
+2014-08-06 18:27:40,995 [40] : WLAN Event Code Success
+2014-08-06 18:27:41,020 [40] : WLAN Event Code Success
+2014-08-06 18:27:41,020 [40] : WLAN Event Code Success
+2014-08-06 18:27:41,020 [40] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:27:41,020 [40] : Connected
+2014-08-06 18:27:41,020 [40] : Successful to associate to the router
+2014-08-06 18:27:41,022 [40] : Disconnected: 10.74.120.61:36008
+2014-08-06 18:35:52,728 [41] : Connected: 10.74.120.61:36231
+2014-08-06 18:35:52,829 [41] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:35:52,881 [41] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:35:53,489 [41] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:35:53,489 [41] : Connecting ...
+2014-08-06 18:35:53,492 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,493 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,493 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,494 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,494 [41] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:35:53,494 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,494 [41] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:35:53,652 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,658 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,661 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,699 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,700 [41] : WLAN Event Code Success
+2014-08-06 18:35:53,700 [41] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:35:53,700 [41] : Connected
+2014-08-06 18:35:53,700 [41] : Successful to associate to the router
+2014-08-06 18:35:53,701 [41] : Disconnected: 10.74.120.61:36231
+2014-08-06 18:44:55,480 [42] : Connected: 10.74.120.61:36470
+2014-08-06 18:44:58,477 [42] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 18:44:58,774 [42] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 18:44:59,406 [42] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 18:44:59,406 [42] : Connecting ...
+2014-08-06 18:44:59,568 [42] : WLAN Event Code Success
+2014-08-06 18:44:59,594 [42] : WLAN Event Code Success
+2014-08-06 18:44:59,594 [42] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 18:44:59,598 [42] : WLAN Event Code Success
+2014-08-06 18:44:59,598 [42] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 18:45:01,665 [42] : WLAN Event Code Success
+2014-08-06 18:45:01,665 [42] : WLAN Event Code Success
+2014-08-06 18:45:01,676 [42] : WLAN Event Code Success
+2014-08-06 18:45:01,701 [42] : WLAN Event Code Success
+2014-08-06 18:45:01,701 [42] : WLAN Event Code Success
+2014-08-06 18:45:01,701 [42] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 18:45:01,701 [42] : Connected
+2014-08-06 18:45:01,701 [42] : Successful to associate to the router
+2014-08-06 18:45:01,702 [42] : Disconnected: 10.74.120.61:36470
+2014-08-06 19:09:57,833 [43] : Connected: 10.74.120.61:37331
+2014-08-06 19:09:57,936 [43] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 19:09:57,989 [43] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 19:09:58,593 [43] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 19:09:58,593 [43] : Connecting ...
+2014-08-06 19:09:58,597 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,597 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,597 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,597 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,597 [43] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 19:09:58,598 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,598 [43] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 19:09:58,776 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,777 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,785 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,806 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,806 [43] : WLAN Event Code Success
+2014-08-06 19:09:58,806 [43] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 19:09:58,807 [43] : Connected
+2014-08-06 19:09:58,807 [43] : Successful to associate to the router
+2014-08-06 19:09:58,808 [43] : Disconnected: 10.74.120.61:37331
+2014-08-06 21:04:51,478 [44] : Connected: 10.74.120.61:39087
+2014-08-06 21:13:40,591 [45] : Connected: 10.74.120.61:39149
+2014-08-06 21:13:40,701 [45] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 21:13:40,771 [45] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 21:13:41,381 [45] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 21:13:41,381 [45] : Connecting ...
+2014-08-06 21:13:41,400 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,400 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,400 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,400 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,400 [45] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 21:13:41,400 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,401 [45] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 21:13:41,551 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,551 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,551 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,568 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,568 [45] : WLAN Event Code Success
+2014-08-06 21:13:41,568 [45] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 21:13:41,568 [45] : Connected
+2014-08-06 21:13:41,569 [45] : Successful to associate to the router
+2014-08-06 21:13:41,570 [45] : Disconnected: 10.74.120.61:39149
+2014-08-06 21:22:18,794 [46] : Connected: 10.74.120.61:39200
+2014-08-06 21:22:18,896 [46] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 21:22:18,948 [46] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 21:22:19,619 [46] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 21:22:19,619 [46] : Connecting ...
+2014-08-06 21:22:19,660 [46] : WLAN Event Code Success
+2014-08-06 21:22:19,693 [46] : WLAN Event Code Success
+2014-08-06 21:22:19,768 [46] : WLAN Event Code Success
+2014-08-06 21:22:19,769 [46] : WLAN Event Code Success
+2014-08-06 21:22:19,769 [46] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 21:22:19,769 [46] : WLAN Event Code Success
+2014-08-06 21:22:19,769 [46] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 21:22:20,257 [46] : WLAN Event Code Success
+2014-08-06 21:22:20,323 [46] : WLAN Event Code Success
+2014-08-06 21:22:20,325 [46] : WLAN Event Code Success
+2014-08-06 21:22:20,356 [46] : WLAN Event Code Success
+2014-08-06 21:22:20,357 [46] : WLAN Event Code Success
+2014-08-06 21:22:20,357 [46] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 21:22:20,357 [46] : Connected
+2014-08-06 21:22:20,357 [46] : Successful to associate to the router
+2014-08-06 21:22:20,358 [46] : Disconnected: 10.74.120.61:39200
+2014-08-06 21:30:48,634 [47] : Connected: 10.74.120.61:39255
+2014-08-06 21:30:48,737 [47] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 21:30:48,789 [47] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 21:30:49,393 [47] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 21:30:49,393 [47] : Connecting ...
+2014-08-06 21:30:49,397 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,397 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,397 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,398 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,398 [47] : wlanConnectionData.notifyData.notificationCode Disconnected
+2014-08-06 21:30:49,398 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,398 [47] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 21:30:49,567 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,575 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,585 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,599 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,600 [47] : WLAN Event Code Success
+2014-08-06 21:30:49,600 [47] : wlanConnectionData.notifyData.notificationCode ConnectionComplete
+2014-08-06 21:30:49,600 [47] : Connected
+2014-08-06 21:30:49,600 [47] : Successful to associate to the router
+2014-08-06 21:30:49,601 [47] : Disconnected: 10.74.120.61:39255
+2014-08-06 21:56:14,978 [48] : Connected: 10.74.120.61:39478
+2014-08-06 21:56:15,071 [48] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 21:56:15,155 [48] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 21:56:15,174 [48] : using adapter (RangeMax Dual Band Wireless-N USB Adapter) to connect to the router
+2014-08-06 21:56:15,174 [48] : Connecting ...
+2014-08-06 21:56:15,176 [48] : WLAN Event Code Success
+2014-08-06 21:56:15,176 [48] : wlanConnectionData.notifyData.notificationCode ConnectionStart
+2014-08-06 21:56:25,176 [48] : CANNOT assicate to the router using none security 
+2014-08-06 21:56:25,177 [48] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 22:05:26,335 [49] : Connected: 10.74.120.61:39553
+2014-08-06 22:05:26,430 [49] : associate 0 HOME-3579-2.4 WPAPSK AES 11111111
+2014-08-06 22:05:26,475 [49] : Trying to connect router using WPAPSK:AES:11111111
+2014-08-06 22:15:45,892 [50] : Connected: 10.74.120.61:39636
+2014-08-06 22:16:00,893 [44] : 
+2014-08-06 22:16:00,906 [44] : Value cannot be null.
+Parameter name: input
+2014-08-06 22:16:00,906 [44] : Disconnected: 10.74.120.61:39087

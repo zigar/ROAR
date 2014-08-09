@@ -1,0 +1,218 @@
+3  Run:82800000  Off:00000000  Stk:00000000 FP-Key:MU
+#05: EDAC    v1.0.0.5     BFF90000 00000400     246 CRC:1AD2C562 Binary
+#06: NORB    v1.0.0.0     BFFB0000 00010000     64K CRC:n/a      Binary
+#07: FLAG    v0.0.0.2     BFFC0000 00010000     64K CRC:n/a      Binary
+
+Net: EMAC1
+>>> LOAD STAGE 2
+LOADING: S2DT-3.0.12.0
+EDA-DblBuf: [Bank0:Comitted#4,0]  [Bank1:Discovered,0]  ActiveBank=1
+MS-DblBuf: WriteInfo [Bank1:Comitted#4,0]
+Flash: 0% [0/32]
+Flash: 100% [32/32]
+MS-DblBuf: WriteInfo [Bank0:Inactive,0]
+Flash: 0% [0/32]
+Flash: 100% [32/32]
+MS-DblBuf: WriteInfo [Bank1:Comitted#3,0]
+Flash: 0% [0/32]
+Flash: 100% [32/32]
+Object Authentication: Elapsed=0.000 sec  Rules=TEST  Method=3  SaErr=1305
+BootLog: Auth-Reject[1305]
+Bootlogger - skip send
+*** Fatal Error: code=00  SaErr=1305  (soft-fail)
+
+
+Cisco IPTV bootstrap
+Shmoo3.7|D|2|F2R|S1|0|1|m|2|U|
+
+Cisco IPTV bootstrap
+Shmoo3.7|D|2|F2R|S1|0|1|m|2|U|
+BootLog: BSPU:loaded:BSPU-3.8.0.0
+
+
+***[ Cisco IPTV Boot v2.6.18.0[TEST] ]***
+
+  SOC: BCM7405-B2 [T=XB,E=00,M=00,SB=E,JT=O,A=D,V=D,R=D,K0=Cisco]
+BSECK: BSECK_7405_XB_1_0
+BSPUP: (unknown)
+  BSP: v3.8 running
+
+SOC-ID: 7F00000000000000
+
+DRAM: 256M
+
+Stack: 0x800FF98C
+ Heap: 0x80100000-0x8FFFFFEF (254M)
+
+Flash dev#0 Addr=0xBFC00000  ID=0001:227E:221A:2200:0002  (S29GL032N_04)   4M
+Flash dev#1 Addr=0xBA000000  ID=00EC:00EC:00EC:00EC:FFFF not recognized
+
+NORB: Tagged
+EthernetSwitch: 88E6061
+HomeNetwork: Disabled
+FrontPanel: Type=26
+
+KeyData table:
+    BCHD: HDCP-BC-5132C89FDA
+    BCK2: BCM-Key2-B-00-00-V
+    BCMS: MSFT-TEST-4844879589A2
+
+K2|
+Device Identity:
+SN=160006274  MAC=48:44:87:95:89:A2  GUID={b17dc29bde-ad43-00b0-63d0-c9bc6adb83}
+VenId,HwID=1,2452  DNCS=17105,20,0x0002DE  [Ignore-SecSi]
+
+CRC Check:  S1BL-2.6.18.0    : good
+CRC Check:  S2MS-0.0.77.6    : skip - marked ignore
+CRC Check:  BSEK-1.0.0.0     : good
+CRC Check:  BSPU-3.8.0.0     : good
+CRC Check:  S2DT-3.0.12.0    : good
+CRC Check:  EDAC-1.0.0.5     : good
+CRC Check:  NORB-1.0.0.0     : skip - marked ignore
+CRC Check:  FLAG-0.0.0.2     : skip - marked ignore
+Object CRC Check:  Elapsed=0.254 sec
+
+
+______________________________
+struct ObjectTable:  Version=1  BurnCount=34  Recovered=0  MaxTableEntries=47
+Indx Type    Version      Fl.Addr  Fl.Size  Obj.Len CRC Check    Code Attr.
+---- ----    ------------ -------- -------- ------- ------------ ---------
+#00: S1BL    v2.6.18.0    BFC00000 00038000    217K CRC:24CA9293 Binary
+#01: S2MS    v0.0.77.6    BFC80000 00200000      2M CRC:n/a      BCM-MS2 Sign:05  Run:00000000  Off:00000000  Stk:00000000
+#02: BSEK    v1.0.0.0     BFC38000 00011000     66K CRC:30060180 Binary
+#03: BSPU    v3.8.0.0     BFC6FC00 00010400     65K CRC:C77599E1 Binary
+#04: S2DT    v3.0.12.0    BFE80000 00100000    511K CRC:4A39B396 BCM-EDA2 Sign:03  Run:82800000  Off:00000000  Stk:00000000 FP-Key:MU
+#05: EDAC    v1.0.0.5     BFF90000 00000400     246 CRC:1AD2C562 Binary
+#06: NORB    v1.0.0.0     BFFB0000 00010000     64K CRC:n/a      Binary
+#07: FLAG    v0.0.0.2     BFFC0000 00010000     64K CRC:n/a      Binary
+
+Net: EMAC1
+>>> LOAD STAGE 2
+LOADING: S2MS-0.0.77.6
+MS-DblBuf: [Bank0:Factory,1]  [Bank1:Inactive,0]  ActiveBank=0
+Object Authentication: Elapsed=0.000 sec  Rules=TEST  Method=5  SaErr=0
+K4|Bootlogger - skip send
+1|>>> Stage 1 exit <<<
+____________________________
+
+BRCM74050011
+cT1FVJ
+|--------------------------------------------------------------------------------|
+|       Microsoft IPTV Bootloader --- Loader Module starting....
+|       Built:  Jul 10 2012 11:49:18
+|       Start address at 0x8890c800
+|       data length 0x4e27d, original length 0xff800
+disable_regionX(0)
+Error: disable region 0 status = b1
+disable_regionX(1)
+Passed: disable region 1
+disable mich..........
+Error: disable mich status = 1
+disable_regionX(2)
+disable_regionX 2 status = b1
+disable_regionX(3)
+disable_regionX 3 status = b1
+disable_regionX(4)
+disable_regionX 4 status = b1
+disable_regionX(5)
+disable_regionX 5 status = b1
+disable_regionX(6)
+disable_regionX 6 status = b1
+disable_regionX(7)
+disable_regionX 7 status = b1
+
+Running BSeck Version: 3.8
+|       [Loader Module Launch Stage2 to 0xa8700000]
+|--------------------------------------------------------------------------------|
+
+BRCM74050011
+cTHD1FVJ
+Microsoft IPTV Bootloader, build (7706)
+Built by BM-VM-2905, Jul 10 2012 11:48:13
+INFO: OEMPlatformInit....
+BID: 200
+IPTV HAL Get Address..........TV2BootAddress 0xbfc80000, Size=0x000fffe0
+Use --- TV2BootAddress 0xbfc80000, Size=0x000fffe0
+pS2 0xbfc80000   HEADER_SIZE_OFFSET=0x228
+TV2 Boot Address=0xbfc80400, Size=0x000ff?
+
+Cisco IPTV bootstrap
+Shmoo3.7|D|2|F2R|S1|0|1|m|2|U|
+
+Cisco IPTV bootstrap
+Shmoo3.7|D|2|F2R|S1|0|1|m|2|U|
+BootLog: BSPU:loaded:BSPU-3.8.0.0
+
+
+***[ Cisco IPTV Boot v2.6.18.0[TEST] ]***
+
+  SOC: BCM7405-B2 [T=XB,E=00,M=00,SB=E,JT=O,A=D,V=D,R=D,K0=Cisco]
+BSECK: BSECK_7405_XB_1_0
+BSPUP: (unknown)
+  BSP: v3.8 running
+
+SOC-ID: 7F00000000000000
+
+DRAM: 256M
+
+Stack: 0x800FF98C
+ Heap: 0x80100000-0x8FFFFFEF (254M)
+
+Flash dev#0 Addr=0xBFC00000  ID=0001:227E:221A:2200:0002  (S29GL032N_04)   4M
+Flash dev#1 Addr=0xBA000000  ID=00EC:00EC:00EC:00EC:FFFF not recognized
+
+NORB: Tagged
+EthernetSwitch: 88E6061
+HomeNetwork: Disabled
+FrontPanel: Type=26
+BootLog: Btn=MU
+
+KeyData table:
+    BCHD: HDCP-BC-5132C89FDA
+    BCK2: BCM-Key2-B-00-00-V
+    BCMS: MSFT-TEST-4844879589A2
+
+K2|
+Device Identity:
+SN=160006274  MAC=48:44:87:95:89:A2  GUID={b17dc29bde-ad43-00b0-63d0-c9bc6adb83}
+VenId,HwID=1,2452  DNCS=17105,20,0x0002DE  [Ignore-SecSi]
+
+CRC Check:  S1BL-2.6.18.0    : good
+CRC Check:  S2MS-0.0.77.6    : skip - marked ignore
+CRC Check:  BSEK-1.0.0.0     : good
+CRC Check:  BSPU-3.8.0.0     : good
+CRC Check:  S2DT-3.0.12.0    : good
+CRC Check:  EDAC-1.0.0.5     : good
+CRC Check:  NORB-1.0.0.0     : skip - marked ignore
+CRC Check:  FLAG-0.0.0.2     : skip - marked ignore
+Object CRC Check:  Elapsed=0.254 sec
+
+
+______________________________
+struct ObjectTable:  Version=1  BurnCount=34  Recovered=0  MaxTableEntries=47
+Indx Type    Version      Fl.Addr  Fl.Size  Obj.Len CRC Check    Code Attr.
+---- ----    ------------ -------- -------- ------- ------------ ---------
+#00: S1BL    v2.6.18.0    BFC00000 00038000    217K CRC:24CA9293 Binary
+#01: S2MS    v0.0.77.6    BFC80000 00200000      2M CRC:n/a      BCM-MS2 Sign:05  Run:00000000  Off:00000000  Stk:00000000
+#02: BSEK    v1.0.0.0     BFC38000 00011000     66K CRC:30060180 Binary
+#03: BSPU    v3.8.0.0     BFC6FC00 00010400     65K CRC:C77599E1 Binary
+#04: S2DT    v3.0.12.0    BFE80000 00100000    511K CRC:4A39B396 BCM-EDA2 Sign:03  Run:82800000  Off:00000000  Stk:00000000 FP-Key:MU
+#05: EDAC    v1.0.0.5     BFF90000 00000400     246 CRC:1AD2C562 Binary
+#06: NORB    v1.0.0.0     BFFB0000 00010000     64K CRC:n/a      Binary
+#07: FLAG    v0.0.0.2     BFFC0000 00010000     64K CRC:n/a      Binary
+
+Net: EMAC1
+>>> LOAD STAGE 2
+LOADING: S2DT-3.0.12.0
+EDA-DblBuf: [Bank0:Inactive,0]  [Bank1:Comitted#3,0]  ActiveBank=1
+MS-DblBuf: WriteInfo [Bank1:Comitted#2,0]
+Flash: 0% [0/32]
+Flash: 100% [32/32]
+Object Authentication: Elapsed=0.000 sec  Rules=TEST  Method=3  SaErr=1305
+BootLog: Auth-Reject[1305]
+Bootlogger - skip send
+*** Fatal Error: code=00  SaErr=1305  (soft-fail)
+
+
+Cisco IPTV bootstrap
+Shmoo3.7
