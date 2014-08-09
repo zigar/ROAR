@@ -69,6 +69,6 @@ exit        - exit login
 
 
 
-For Android phone, you will need to connect it to a host with USB debug mode. and then ADB forward is required to map android's port to host's link local port, at last a map tool to external ip address is required as well.
+For Android phone, you will need to connect it to a host with USB debug mode. and then ADB forward is required to map android's port to host's link local port, at last a map tool to external ip address is required as well, I use passport.
 
 
