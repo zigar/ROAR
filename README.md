@@ -1,23 +1,20 @@
-ROAR
+WIFI_CLI
 ====
-I love Programming, and Piano. so P&P?
 
-Enjoy the feeling of getting stronger everyday!
-
-This repository contains following projects:
-
-
-WIFIAPI
+Brief Introduction
 -----
 
-This project is to provide a command line interface for user to get status/control his/her WIFI card on different platform(Aka Windows and Android phone in my implementation)
+This project aime to provide a command line tool for controlling WIFI network cards across different platform(Windows and Android phone). For windows it use [Micosoft Windows Native Wifi API](https://docs.microsoft.com/en-us/windows/desktop/NativeWiFi/portal) )  
 
 Windows API is developed with C# in VS, Android API is developed with ADT.
 
+Example usage
+-----
+
 Take WIFIAPI(Windows) for example, when you run it in your host, it will start a TCP socket in port 2014, and then you can connect to this port like below:
 
-
-ZHIQIN-M-Q0FF:~ zygar$ telnet x.x.x.x 2014
+```
+~ zigar$ telnet x.x.x.x 2014
 
 
 Trying x.x.x.x
@@ -66,7 +63,7 @@ ftpget      - ftp get a file
 
 
 exit        - exit login
-
+```
 
 
 For Android phone, you will need to connect it to a host with USB debug mode. and then ADB forward is required to map android's port to host's link local port, at last a map tool to external ip address is required as well, I use passport.
